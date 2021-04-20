@@ -21,7 +21,7 @@
 title: CookieWeb
 email: uzen.huang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-j    CookieUzen's internet real estate.
+    CookieUzen's internet real estate.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "CookieUzen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: CookieUzen
